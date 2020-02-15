@@ -1,2 +1,3 @@
 # hackerearth
-This repository contains all hackerearth problems
+This repository contains solution of all hackerearth problems...
+# solved by Nitish Pratap Yadav
